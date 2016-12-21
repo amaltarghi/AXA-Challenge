@@ -1,0 +1,2 @@
+# AXA-Challenge
+The AXA data challenge aims at developing models for an inbound call forecasting system. The forecasting system should be able to predict the number of incoming calls for the AXA Assistance call center in France, on a per "half-hour" time slot basis. The prediction is for seven (7) days ahead in time. The specific dataset includes telephony data retrieved from AXA call centers, and corresponds to the the period spanning the calendar years 2011-13. 
